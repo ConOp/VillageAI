@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Undefined
+  - Team2
+  - Team1
+  - Gold1
+  - Gold2
+  - Stone1
+  - Stone2
+  - Wood1
+  - Berries1
+  - Berries2
+  - Wood2
+  - EnergyPot
+  - pause
+  - wontxt
+  - reasontxt
+  - gameover
+  - gameui
+  - LoadMapCheck
+  - SelectMap
+  - NewWorld
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
